@@ -23,11 +23,13 @@
     "prettier": "^3.4.2",
     "typescript": "^5.7.3",
     "eslint": "^8.55.0",
+    "eslint-plugin-jest": "^25.7.0",
     "rollup": "^2.79.1",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-dts": "^4.2.3",
     "rollup-plugin-filesize": "^9.1.2",
     "rollup-plugin-node-resolve": "^5.2.0",
+    "@types/jest": "^27.5.2",
     "@typescript-eslint/eslint-plugin": "^6.13.1",
     "@typescript-eslint/parser": "^6.13.1"
   }
