@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+  "rootDir": "src",
+    "strictFunctionTypes": true
+  },
+  "include": ["src/**/*.ts"]
+}
