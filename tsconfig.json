@@ -3,5 +3,6 @@
   "rootDir": "src",
     "strictFunctionTypes": true
   },
-  "include": ["src/**/*.ts"]
+  "include": ["src/**/*.ts"],
+  "strict": true
 }
